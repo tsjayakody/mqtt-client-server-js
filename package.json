@@ -1,0 +1,17 @@
+{
+  "name": "mqtt-client-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "server": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "mqtt": "^4.3.6",
+    "socket.io": "^4.4.1"
+  }
+}
